@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ReadObj">
+</Property><Property Name="解决方案文件" Value="C:\Documents and Settings\szmt\桌面\sc\PA1\ReadObj\ReadObj.sln">
+</Property><Property Name="Date" Value="2012年3月7日">
+</Property><Property Name="Time" Value="8:39">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ReadObj.sln" Description="文件已成功备份为 C:\Documents and Settings\szmt\桌面\sc\PA1\ReadObj\ReadObj.sln.old">
+</Event><Event ErrorLevel="0" Project="ReadObj" Source="ReadObj\ReadObj.vcproj" Description="Converting project file 'C:\Documents and Settings\szmt\桌面\sc\PA1\ReadObj\ReadObj\ReadObj.vcproj'.">
+</Event><Event ErrorLevel="1" Project="ReadObj" Source="ReadObj\ReadObj.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="ReadObj" Source="ReadObj\ReadObj.vcproj" Description="Done converting to new project file 'C:\Documents and Settings\szmt\桌面\sc\PA1\ReadObj\ReadObj\ReadObj.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="ReadObj" Source="ReadObj\ReadObj.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ReadObj.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="ReadObj.sln" Description="Converted">
+</Event></UpgradeLog>
